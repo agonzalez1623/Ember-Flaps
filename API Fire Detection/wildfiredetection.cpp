@@ -10,7 +10,7 @@ const char* WIFI_SSID = "YOUR_WIFI_NAME";
 const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
 
 // ---- NASA FIRMS SETTINGS ----
-const char* MAP_KEY = "YOUR_MAP_KEY";
+const char* MAP_KEY = "fb25099c6cd8c13387b17400d89568f3";
 const char* AREA = "-105.5,39.5,-104.8,40.1";
 
 // ---- HOUSE LOCATION ----
